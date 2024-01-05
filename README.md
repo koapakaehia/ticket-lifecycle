@@ -6,9 +6,6 @@
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -19,6 +16,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+- Mac OS (User)
 
 <h2>Ticket Lifecycle Stages</h2>
 
@@ -33,7 +31,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<b>- Start with the end-users osTicket URL: http://localhost/osTicket/</b>
+
+- Users (customers) utilize this stage to report their issues and create tickets for resolution.
+- This stage is referred to as "Intake."
 </p>
 <br />
 
@@ -41,7 +42,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<b>- Users (customers) provide a concise description of their issue, corresponding to the selected help topic.</b>
+  
+- Users input necessary information.
+- Provide a brief description of the problem.
+- Click "Create Ticket."
 </p>
 <br />
 
@@ -49,6 +54,58 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<b>- Following the creation of the ticket.</b>
+
+- Agents (workers) log in to manage tickets by handling assignment and communication tasks.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<b>- Depending on the role of the agent, they can modify:</b>
+
+- Agents (workers) log in to manage tickets by handling assignment and communication tasks.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<b>- Following the creation of the ticket.</b>
+
+- Status.
+- Priority.
+- Department.
+- Assigned To.
+- SLA Plan.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<b>- The next step involves actively addressing and resolving the issues outlined in the ticket.</b>
+
+- The next step involves reaching out to users.
+- Depending on priority, there's a varying level of urgency for resolution, distinguishing between SEV-A and SEV-C.
+- Effective communication is crucial during this stage.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<b>- The final step involves resolving the ticket by addressing and resolving the reported</b>
+
+- Draft a summary or description outlining the resolution.
+- Update the ticket status accordingly.
+Document the resolution details by making a post.
+
+<b>Congratulations! You've reached the end of the process.</b>
 </p>
 <br />
