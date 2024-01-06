@@ -106,6 +106,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Update the ticket status accordingly.
 Document the resolution details by making a post.
 
-<b>Congratulations! You've reached the end of the process.</b>
+<b>Congratulations on completing the step-by-step guide, covering the lifecycle of a ticket in osTicket from intake to resolution in the open-source help desk system.</b>
 </p>
 <br />
