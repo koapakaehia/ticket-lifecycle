@@ -31,81 +31,51 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<b>- Start with the end-users osTicket URL: http://localhost/osTicket/</b>
+<b>1. Intake:</b>
 
-- Users (customers) utilize this stage to report their issues and create tickets for resolution.
-- This stage is referred to as "Intake."
-</p>
-<br />
-
+* End Users access osTicket URL: http://localhost/osTicket/
+* Users (customers) report issues and create tickets.
+    * Users input:
+    * Brief description of their issue.
+    * Necessary information.
+    * Help topic selection.
+* Click "Create Ticket."
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<b>- Users (customers) provide a concise description of their issue, corresponding to the selected help topic.</b>
-  
-- Users input necessary information.
-- Provide a brief description of the problem.
-- Click "Create Ticket."
-</p>
-<br />
 
+<b>2. Assignment and Communication:</b>
+* Agents (workers) log in to osTicket.
+    * Agents work through the Assignment and Communication stage:
+    * Change Status, Priority, Department, Assigned To, and SLA Plan based on role and urgency.
+    * Review and understand the reported issue.
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<b>- Following the creation of the ticket.</b>
 
-- Agents (workers) log in to manage tickets by handling assignment and communication tasks.
-</p>
-<br />
-
+<b>3. Working the Issue:</b>
+* Agents proceed to work on the reported issue.
+    * Actions include:
+        * Reaching out to users for more information.
+        * Adjusting response speed based on Priority (e.g., SEV-A requires quicker resolution than SEV-C).
+        * Effective communication with users.
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<b>- Depending on the role of the agent, they can modify:</b>
 
-- Agents (workers) log in to manage tickets by handling assignment and communication tasks.
-</p>
-<br />
-
+<b>4. Resolution:</b>
+* Agents work towards resolving the reported issue.
+    * Steps in this stage:
+        * Write a summary or description of the resolution.
+        * Change the ticket status accordingly.
+        * Post updates on the ticket.
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<b>- Following the creation of the ticket.</b>
-
-- Status.
-- Priority.
-- Department.
-- Assigned To.
-- SLA Plan.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5MBXf1k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<b>- The next step involves actively addressing and resolving the issues outlined in the ticket.</b>
-
-- The next step involves reaching out to users.
-- Depending on priority, there's a varying level of urgency for resolution, distinguishing between SEV-A and SEV-C.
-- Effective communication is crucial during this stage.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<b>- The final step involves resolving the ticket by addressing and resolving the reported</b>
-
-- Draft a summary or description outlining the resolution.
-- Update the ticket status accordingly.
-Document the resolution details by making a post.
-
 <b>Congratulations on completing the step-by-step guide, covering the lifecycle of a ticket in osTicket from intake to resolution in the open-source help desk system.</b>
 </p>
 <br />
