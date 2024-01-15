@@ -28,7 +28,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LrZgRtx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <b>1. Intake:</b>
@@ -41,7 +41,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
     * Help topic selection.
 * Click "Create Ticket."
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IexLBwY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/iu1kSe2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -51,7 +55,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
     * Change Status, Priority, Department, Assigned To, and SLA Plan based on role and urgency.
     * Review and understand the reported issue.
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PU1KpMX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/g3y5rZN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -62,7 +70,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
         * Adjusting response speed based on Priority (e.g., SEV-A requires quicker resolution than SEV-C).
         * Effective communication with users.
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3tTWf9w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/E27tJym.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
